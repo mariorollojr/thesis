@@ -33,13 +33,13 @@
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta content="https://avatars0.githubusercontent.com/u/1608317?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="jdblischak/git-for-science" property="og:title" /><meta content="https://github.com/jdblischak/git-for-science" property="og:url" /><meta content="git-for-science - A quick introduction to version control with Git and GitHub" property="og:description" />
+    <meta content="https://avatars6.githubusercontent.com/u/1608317?v=4&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="jdblischak/git-for-science" property="og:title" /><meta content="https://github.com/jdblischak/git-for-science" property="og:url" /><meta content="git-for-science - A quick introduction to version control with Git and GitHub" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTg4MjM0OTE4OmRiNzcyZjQ5YmNmOWNjNTI4MmQxNGZiZWRjNjFhZjYwZDQwYTAwYjQ4NmViZDdjMWQxOGY4ZDJiNWJiMmQxYzY=--9831d4855a3c189bcd6892222f8afc670f9fa32b">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTg4MjM0OTE4OmJlYjc5MGE0ZmE2MTMzMDYzNmQ5YWQ3YWIyOGVkYzkyNmRmM2Q2YjFkZmU4MjAwOWZkMTBkMDg0OTczZmZjOGU=--2141785ae9a105225cf1cd77ecbf48d68eceed61">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="EC3E:43B8:F8025F:1AC6652:5967B56C" data-pjax-transient>
+  <meta name="request-id" content="FC44:3DD1:341025:5E9D79:59690967" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="EC3E:43B8:F8025F:1AC6652:5967B56C" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="12697646" name="octolytics-actor-id" /><meta content="mariorollojr" name="octolytics-actor-login" /><meta content="1dbd62629aa34c0d73d7715d1468e444b3223976c65a2ea87c30e85ca74f2e47" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="FC44:3DD1:341025:5E9D79:59690967" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="12697646" name="octolytics-actor-id" /><meta content="mariorollojr" name="octolytics-actor-login" /><meta content="1dbd62629aa34c0d73d7715d1468e444b3223976c65a2ea87c30e85ca74f2e47" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -63,7 +63,7 @@
   <meta name="user-login" content="mariorollojr">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YjE2MzMzNzRmY2Y3MDQ1M2NhOTFjMjcwODUzNDg0MDM0OGYwZThkYmM3NWU2MGU3NzcyODU2Nzk5NTkwZWJkN3x7InJlbW90ZV9hZGRyZXNzIjoiMTkxLjIzLjIzLjI1MyIsInJlcXVlc3RfaWQiOiJFQzNFOjQzQjg6RjgwMjVGOjFBQzY2NTI6NTk2N0I1NkMiLCJ0aW1lc3RhbXAiOjE0OTk5Njg4ODYsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="YTYyNjlmYmE2ZTg5MzMxNWU3M2E4NmNjMWI3NmI0YmFmMDI5MThkZTUzOWY4NzdlYjY4ZjU2NWFiMDcyZjVkNXx7InJlbW90ZV9hZGRyZXNzIjoiMTc3LjE5OC43Mi4xODciLCJyZXF1ZXN0X2lkIjoiRkM0NDozREQxOjM0MTAyNTo1RTlENzk6NTk2OTA5NjciLCJ0aW1lc3RhbXAiOjE1MDAwNTU5MTEsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
 
   <meta name="html-safe-nonce" content="964d5ba3ad6ec35ae968aa27d0c57aafda928dc0">
@@ -215,7 +215,7 @@
        aria-expanded="false"
        aria-haspopup="true"
        data-ga-click="Header, show menu, icon:avatar">
-      <img alt="@mariorollojr" class="avatar" src="https://avatars1.githubusercontent.com/u/12697646?v=3&amp;s=40" height="20" width="20">
+      <img alt="@mariorollojr" class="avatar" src="https://avatars5.githubusercontent.com/u/12697646?v=4&amp;s=40" height="20" width="20">
       <span class="dropdown-caret"></span>
     </a>
 
@@ -246,7 +246,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="HocwOpr3LSnZw9XRBZ4oyv5AxHoBA2iaidA9OtzoX3Fz5y8/9O2TyWdHOkOCoIKn6waiPJ3RNxGSr/yD3BhtIg==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="0zqqxrDhudZ568qX7t+60Q4hr85B0VJsg652zP7ROaK+WrXD3vsHNsdvJQVp4RC8G2fJiN0DDeeY0bd1/iEL8Q==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -256,7 +256,7 @@
 </ul>
 
 
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TGcBDp7h92jGEmVLqFi6cqf3mWZ6tJgDZLKhb5Steo8hBx4L8PtJiHiWitkvZhAfsrH/IOZmx4h/zWDWlF1I3A==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ufqkQtv2VvcWmnF12S3XbBSFDTqWaVW850prS7ivFIDUmrtHtezoF6genudeE30BAcNrfAq7Cjf8NaryuF8m0w==" /></div>
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
         Sign out
       </button>
@@ -288,7 +288,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="4MBV1LB/ndYzEC0RdGmSu559a1TQZwRixaNu0hkT6Jyc+mOC56Bj9u2GGreGG3ao7D4X1nrdHZM8qX4VniCYmg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="30200213" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="dcFEcYJ/b0ABPHoAdV5Qk56uWJVr54f5W5nWI3dyuCYJ+3In1aCRYN+qTaaHLLSA7O0kF8Fdngiik8bk8EHIIA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="30200213" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/jdblischak/git-for-science/subscription"
@@ -368,7 +368,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jdblischak/git-for-science/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sEc3jiOTib2RLdvAM3rDTtLVC1BHJpP2iMmslVwOkIM3CMJBLpfCWL8ySRm2Gr9uUn6W9QevAJzz2aUlZMxv+w==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jdblischak/git-for-science/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="RO11HI8gY8dKpn3KR3S9aa/lZksiZa4A6zBMu29irXbDooDTgiQoImS57xPCFMFJL0777mLsPWqQIEULV6BSDg==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -382,7 +382,7 @@
           4
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jdblischak/git-for-science/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XHGKj6sRBSKVV8rlvNpDymDtgffWmAZiUX4vcNPpyZ3/ci2EUxYdmps8Pvl//+FWLkcTDmIeNNSU2l6WSHUH/A==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jdblischak/git-for-science/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jL9yzhdVzrTzVNdLPN15UzUlN307ft6ZFJyVM/bZPpMvvNXF71LWDP0/I1f/+NvPe4+lhI/47C/ROOTVbUXw8g==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -400,7 +400,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jdblischak/git-for-science/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6EC83a39i37hbPhm/OobI5Ol/ysNB3dmh7yBaHM1CCqay5E1sarH63x5/DkmST6/a/qeTLVshT6ihENbI8jGuw==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jdblischak/git-for-science/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rPYBmUoRc3xs5/J0341+Q3Nw3QRJoOQ5H4SZr1txeE7efSxxVkY/6fHy9isFLlvfiy+8Y/HLFmE6vFucC4y23w==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -668,12 +668,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jdblischak/git-for-science/edit/master/code/clean.py" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="tfS73TmYzdXuWNIOU4MpmNcY4mVHSjJehbzlZyGvD9iX8q/+xVMDXt0bA91Y4xLGOrlRxXWjGPLGagUpWrcyiA==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jdblischak/git-for-science/edit/master/code/clean.py" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="oUPZnB8ArPL5LATBXYqRQr4skDqOQTQ+QJpQEv2kda+DRc2/48tiecpv1RJW6qocU40jmryoHpIDTLBchrxI/w==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jdblischak/git-for-science/delete/master/code/clean.py" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="f2FRkNPmP1pbLiYO44ToYggXwxkxyiYxLJJBKek9RKDiw95bS6/9GfkbSSbA8/asBxI+TGGNJ/zVQuhqGTxZzA==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/jdblischak/git-for-science/delete/master/code/clean.py" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="7NF2OXvf1Auynz6hORVpb/hbKfwPOd7WuQMed0IR/idxc/ny45YWSBCqUYkaYneh917UqV9+3xtA07c0shDjSw==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -893,7 +893,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.26018s from unicorn-2602065940-p10lx">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.20152s from unicorn-2647742131-bccgs">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
